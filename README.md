@@ -1,1 +1,1 @@
-# Web_application_foundation_labs
+# Web application foundation labs
